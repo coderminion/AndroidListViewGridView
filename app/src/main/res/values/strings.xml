@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListViewIntroduction</string>
+
+    <string-array name="singers">
+        <item>Selena</item>
+        <item>Rihanna</item>
+        <item>Taylor</item>
+        <item>Adele</item>
+        <item>Ariana Grande</item>
+        <item>Beyonce</item>
+        <item>Lady Gaga</item>
+        <item>Britany</item>
+        <item>Katy Pary</item>
+        <item>Priyanka</item>
+        <item>Miley Cyrus</item>
+        <item>Demi Lovato</item>
+        <item>Anna Kendrick</item>
+        <item>Vanessa Hudgens</item>
+
+    </string-array>
+</resources>
